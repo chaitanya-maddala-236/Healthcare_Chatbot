@@ -1,0 +1,3 @@
+command_handlers.py for command-related functions.
+message_handlers.py for handling user messages.
+helper_functions.py for utility functions like loading data and vectorizing symptoms.

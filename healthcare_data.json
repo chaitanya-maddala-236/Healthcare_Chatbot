@@ -1,0 +1,59 @@
+{
+    "symptom_to_disease": {
+      "headache": ["Migraine", "Tension headache", "Cluster headache"],
+      "fever": ["Influenza", "Common cold"],
+      "cough": ["Bronchitis", "Pneumonia"],
+      "shortness of breath": ["Asthma", "Chronic obstructive pulmonary disease (COPD)", "Pneumonia"],
+      "fatigue": ["Chronic fatigue syndrome", "Anemia"],
+      "abdominal pain": ["Gastritis", "Appendicitis", "Kidney stones"],
+      "joint pain": ["Rheumatoid arthritis", "Osteoarthritis", "Gout"],
+      "rash": ["Eczema", "Contact dermatitis", "Psoriasis"],
+      "dizziness": ["Vertigo", "Meniere's disease", "Orthostatic hypotension"],
+      "nausea": ["Gastroenteritis", "Food poisoning", "Migraine"]
+      // Add more symptoms and associated diseases as needed
+    },
+    "disease_info": {
+      "Migraine": {
+        "symptoms": ["Headache (often one-sided)", "Nausea", "Sensitivity to light and sound"],
+        "generic_medicine": ["Ibuprofen", "Acetaminophen"],
+        "home_remedy": ["Rest in a dark, quiet room", "Apply a cold compress to your head or neck"]
+      },
+      "Influenza": {
+        "symptoms": ["Fever", "Cough", "Body aches"],
+        "generic_medicine": ["Oseltamivir (Tamiflu)", "Acetaminophen"],
+        "home_remedy": ["Drink plenty of fluids", "Get plenty of rest"]
+      },
+      "Asthma": {
+        "symptoms": ["Shortness of breath", "Wheezing", "Chest tightness"],
+        "generic_medicine": ["Albuterol", "Fluticasone"],
+        "home_remedy": ["Use a humidifier", "Practice breathing exercises"]
+      },
+      "Gastritis": {
+        "symptoms": ["Abdominal pain", "Nausea", "Indigestion"],
+        "generic_medicine": ["Antacids", "Proton pump inhibitors (PPIs)"],
+        "home_remedy": ["Avoid spicy and acidic foods", "Eat smaller, more frequent meals"]
+      },
+      "Rheumatoid arthritis": {
+        "symptoms": ["Joint pain (often symmetric)", "Swelling", "Stiffness"],
+        "generic_medicine": ["Nonsteroidal anti-inflammatory drugs (NSAIDs)", "Disease-modifying antirheumatic drugs (DMARDs)"],
+        "home_remedy": ["Apply heat or cold packs", "Engage in low-impact exercises"]
+      },
+      "Eczema": {
+        "symptoms": ["Itchy, red skin patches", "Dry skin", "Inflammation"],
+        "generic_medicine": ["Topical corticosteroids", "Moisturizers"],
+        "home_remedy": ["Keep skin moisturized", "Avoid triggers like harsh soaps"]
+      },
+      "Vertigo": {
+        "symptoms": ["Sensation of spinning or tilting", "Nausea", "Balance problems"],
+        "generic_medicine": ["Antihistamines", "Anti-nausea medications"],
+        "home_remedy": ["Avoid sudden head movements", "Use assistive devices if needed"]
+      },
+      "Gastroenteritis": {
+        "symptoms": ["Diarrhea", "Abdominal cramps", "Nausea"],
+        "generic_medicine": ["Oral rehydration solutions", "Anti-diarrheal medications (in severe cases)"],
+        "home_remedy": ["Drink plenty of fluids", "Eat bland, easily digestible foods"]
+      }
+      // Add more diseases with their respective symptoms, generic medicines, and home remedies
+    }
+  }
+  

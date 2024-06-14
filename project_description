@@ -1,0 +1,58 @@
+### How to Use the Healthcare Chatbot as a User
+
+The Healthcare Chatbot is designed to provide healthcare-related assistance through a series of simple commands on Telegram. Here's a step-by-step guide on how to interact with the bot:
+
+1. **Start a Conversation**:
+   - Open the Telegram app on your device.
+   - Search for the bot by its username (e.g., `@your_bot_username`).
+   - Begin a chat with the bot by clicking on its profile and selecting "Start."
+
+2. **Commands Overview**:
+   - The bot offers several commands to help you get the information you need:
+     - **/start**: Initiates interaction and provides a welcome message with instructions.
+     - **/symptom**: Allows you to input your symptom and get a potential remedy.
+     - **/disease_info**: Provides detailed information about a specific disease.
+     - **/exit**: Ends the conversation with the bot.
+
+3. **Using the Commands**:
+
+   - **/start**:
+     - Type `/start` to begin the conversation. The bot will greet you and list the available commands.
+
+   - **/symptom**:
+     - Type `/symptom` when you want to report a health issue.
+     - The bot will prompt you to describe your symptom.
+     - After you type your symptom (e.g., "I have a headache"), the bot will analyze the input and provide potential diseases, generic medicines, and home remedies.
+
+   - **/disease_info**:
+     - Type `/disease_info` when you want to learn about a specific disease.
+     - The bot will ask you to enter the name of the disease.
+     - Once you provide the disease name (e.g., "Diabetes"), the bot will respond with detailed information about symptoms, generic medicines, and home remedies.
+
+   - **/exit**:
+     - Type `/exit` when you are done interacting with the bot.
+     - The bot will say goodbye and clear the conversation data.
+
+### Example Interaction
+
+1. **Starting the Bot**:
+   - Open the chat with the bot and type `/start`.
+   - The bot greets you and lists the commands.
+
+2. **Reporting a Symptom**:
+   - Type `/symptom`.
+   - The bot asks you to describe your symptom.
+   - You type your symptom, such as "I have a fever."
+   - The bot responds with possible diseases associated with the symptom, along with recommended generic medicines and home remedies.
+
+3. **Requesting Disease Information**:
+   - Type `/disease_info`.
+   - The bot asks for the name of the disease you want information about.
+   - You type the disease name, such as "Asthma."
+   - The bot provides detailed information about the disease, including symptoms, generic medicines, and home remedies.
+
+4. **Ending the Conversation**:
+   - Type `/exit`.
+   - The bot says goodbye and ends the session.
+
+By following these steps, you can efficiently use the Healthcare Chatbot to receive helpful healthcare information.
